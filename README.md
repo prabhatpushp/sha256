@@ -15,7 +15,7 @@ This project implements the SHA-256 (Secure Hash Algorithm 256-bit) as specified
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <YOUR_GIT_URL>
+   git clone https://github.com/prabhatpushp/sha256
    cd sha256
    ```
 2. Set up a virtual environment (optional but recommended):
